@@ -51,7 +51,7 @@
                                         </a>
                                         <hr>
                                         <div class="text-center">
-                                            <a class="small" href="masuksebagai.php">Back</a>
+                                            <a class="small" href="awal.php">Back</a>
                                         </div>
                                         
                                     </div>
